@@ -34,30 +34,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : SIMPLE AND UNIQUE CONTROL
-    description                           : The gameplay is thought out specifically to make this game convenient to play on the phone, you only need one hand and a sharp reaction make a touch to change the direction of the particle. Press and hold to double particle speed.
+  - title                                 : Cute trees
+    description                           : More than 20 types of trees.
     fontawesome_icon_name                 : star
     
-  - title                                 : ABSTRACT DESIGN
-    description                           : Beauty is in simplicity. The game is created in an abstract design and captivates with its simplicity of lines.
+  - title                                 : Offline growth
+    description                           : Your forest will grow while you offline!
     fontawesome_icon_name                 : star
 
 
-  - title                                 : SEVERAL CHAPTERS
-    description                           : The adventure consists of three chapters with unique levels, each level differs from the other in its set of obstacles, speed, and rhythm. In the future, the number of chapters will increase and the levels will become more difficult :)
-    fontawesome_icon_name                 : star
-    
-  - title                                 : THE PERFECTIONIST WAY
-    description                           : This game contains a piece of a puzzle for you. Each of the levels can be completed in the optimal number of actions, the number of actions that are considered optimal for a given level is indicated in the upper left corner during the game, try to go through each of the levels along the reference path.
+  - title                                 : Beautiful low poly graphics
+    description                           : Nice picture and animations.
     fontawesome_icon_name                 : star
     
-  - title                                 : SURVIVAL MODE
-    description                           : The game has a survival mode or an endless game mode, where you will play as long as you can hold out!
+  - title                                 : Relax music
+    description                           : Relax and rest while playing this game.
     fontawesome_icon_name                 : star
-
-
-  - title                                 : BEAUTIFUL ELECTRONIC MUSIC
-    description                           : Music is specially selected for full immersion in the game. Quiet but persistent ambient will help you get into the rhythm of the game and get real pleasure from the process.
+    
+  - title                                 : Day and night modes
+    description                           : 
     fontawesome_icon_name                 : star
 
 
@@ -74,7 +69,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#ffffff"
+link_color                                : "#000000"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
